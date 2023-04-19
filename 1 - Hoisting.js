@@ -8,6 +8,7 @@
 > Let and const are not hoisted( technically they are hoisted but their value is uninitialized and hence dumped into TDZ(Temporal Dead Zone)).
 > Function expressions and Arrow functions also depends if declared with var,let or const.
 
+> TDZ : Region of scope in which variable is defined but can't be used.
 
 */
 
@@ -20,5 +21,5 @@ console.log(notHoisted2)//ERROR!
 var hoistedVariable = 5;
 function hoistedFunction(){ console.log("I'm Hoisted!");}
 
-let notHoisted1 = 1;
-const notHoisted2 = 1;
+let notHoisted1 = 1; // Line 1-23 is TDZ for this variable that's not accessible.
+const notHoisted2 = 1; // Line 1-24 is TDZ for this variable that's not accessible.
