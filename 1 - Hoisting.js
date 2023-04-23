@@ -1,7 +1,7 @@
 /*
 > Hoisting : During the creation phase in Execution Context, code is scanned for variable and function declarations and a new property is added to the 
            variable environment object. This property contains the variables and function and assigns them with a value(variable value will be set to 
-           'undefined' & for function, the value is function body itself).          
+           'undefined' & for function, the value is actul function body itself).          
            
 > Var variables and function declarations are hoisted.
 
