@@ -24,15 +24,15 @@ A repository for Basic to Advance JavaScript.
 10. Strict Mode
 11. 'this' keyword: in method, in function, using alone, in event handlers, in arrow functions, Function borrowing, Explicit Binding(call,apply,bind)
 12. Asynchronous JavaScript
-	> setTimeout and setInterval
-	> Higher Order Functions 
-	> Callbacks and Callback Hell
-	> Promises
-	> async / await
-	> Event Loop
+	|> setTimeout and setInterval
+	|> Higher Order Functions 
+	|> Callbacks and Callback Hell
+	|> Promises
+	|> async / await
+	|> Event Loop
 13. Working with APIs: 
-	> Fetch
-	> XMLHTTPRequest
+	|> Fetch
+	|> XMLHTTPRequest
 14. Classes
 15. Iterators & Generators
 16. Modules in JS: Common JS, ECMAScript Modules
