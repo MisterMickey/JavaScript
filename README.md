@@ -7,7 +7,7 @@ A repository for Basic to Advance JavaScript.
 
 ## INDEX
 
-#Basic JavaScript concepts:
+**Basic JavaScript concepts:**
 
 1. Variables and data types: Understanding how to declare and use variables, as well as the different data types in JavaScript.
 2. Operators: Learning about different operators such as arithmetic, comparison, and logical operators.
@@ -18,7 +18,7 @@ A repository for Basic to Advance JavaScript.
 7. DOM manipulation: Understanding how to manipulate the Document Object Model (DOM) to dynamically update the content and appearance of web pages.
 
 
-#Intermediate JavaScript concepts:
+__Intermediate JavaScript concepts:__
 
 8. Scope and closures: Understanding how scope works in JavaScript and how to create closures.
 9. Hoisting: JavaScript mechanism that allows variable and function declarations to be moved to the top of their respective scopes at runtime. 
@@ -30,7 +30,7 @@ A repository for Basic to Advance JavaScript.
 15. Regular expressions: Understanding how to use regular expressions to match and manipulate text patterns.
 
 
-#Advanced JavaScript concepts:
+**Advanced JavaScript concepts:**
 
 16. Event loop: Understanding how the event loop works in JavaScript and how it manages asynchronous operations.
 17. Prototype-based inheritance: Learning about prototype-based inheritance and how to create and use prototypes to create objects and classes.
