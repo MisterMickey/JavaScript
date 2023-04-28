@@ -1,8 +1,8 @@
-<img src="<u>./images/jsThumbnail<u>.jpg" alt="JavaScript Logo Thumbnail">
+<img src="./images/jsThumbnail.jpg" alt="JavaScript Logo Thumbnail">
 
 
 # JavaScript
-A repository for Basic to Advance JavaScript<u>.
+A repository for Basic to Advance JavaScript.
 
 
 ## INDEX
