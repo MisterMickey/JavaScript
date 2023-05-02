@@ -2,7 +2,7 @@
 There are 7 primitive Data Types in JS:
 
 Number: The Number type is a double-precision 64-bit binary format IEEE 754 value having -(2^53 − 1) (Number.MIN_SAFE_INTEGER) to 
-        2^53 − 1 (Number.MAX_SAFE_INTEGER).
+        2^53 − 1 (Number.MAX_SAFE_INTEGER). (NaN is also a number type).
 
 Boolean: Represents true or false value
 
@@ -17,9 +17,6 @@ String: The String type represents textual data and is encoded as a sequence of 
         UTF-16 code units.
 
 Symbol: A Symbol is a unique and immutable primitive value and may be used as the key of an Object property
-
-NaN: NaN ("Not a Number") is a special kind of number value that's typically encountered when the result of an arithmetic
-      operation cannot be expressed as a number. It is also the only value in JavaScript that is not equal to itself.
       
 Null: The Null type is inhabited by exactly one value: null.
 
